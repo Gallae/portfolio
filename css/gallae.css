@@ -1,0 +1,13 @@
+header{
+    text-align: center;
+    background-color: rgb(187, 231, 248);
+}
+header img{
+    width: 800px;
+}
+header h1{
+    color: white;
+}
+h1{
+    font-family: 'Lato', sans-serif;
+}
