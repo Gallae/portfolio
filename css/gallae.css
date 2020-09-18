@@ -8,9 +8,14 @@ header img{
 }
 header h3{
     padding: 0 0 5px;
+    font-size: 17px;
 }
 header a{
     color: white;
+}
+span a:hover{
+    background-color: white;
+    color: lightpink;
 }
 html{
     font-family: 'Lato', sans-serif;
