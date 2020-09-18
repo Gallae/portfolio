@@ -1,13 +1,20 @@
 header{
     text-align: center;
-    background-color: rgb(187, 231, 248);
+    background-color: rgb(151, 217, 243);
 }
 header img{
-    width: 800px;
+    width: 400px;
+    padding: 20px;
 }
-header h1{
+header h3{
+    padding: 0 0 5px;
+}
+header a{
     color: white;
 }
-h1{
+html{
     font-family: 'Lato', sans-serif;
+}
+p.intro{
+    text-align: center;
 }
