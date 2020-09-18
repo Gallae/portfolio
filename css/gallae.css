@@ -23,8 +23,7 @@ html{
 p.intro{
     text-align: center;
 }
-div {
-    word-wrap: break-word;
-    width: 600px;
+p{
     text-align: center;
- }
+    word-wrap: break-word;
+}
