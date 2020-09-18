@@ -36,9 +36,23 @@ p.quote{
     color: lightpink;
     padding: 0 20px;
 }
-main img{
+p.speaker{
+    float: right;
+}
+main img.selfie{
     float: right;
     width: 350px;
+}
+main img.iondis{
+    width: 400px;
+}
+img.campaign-gif{
+    text-align: center;
+    padding: 10px 0;
+}
+p.stationdifficulties{
+    display: flex;
+    align-items: center;
 }
 footer img{
     width: 75px;
