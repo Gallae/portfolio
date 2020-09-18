@@ -27,3 +27,24 @@ div{
     text-align: center;
     word-wrap: break-word;
 }
+p.quote{
+    font-family: 'Anton', sans-serif;
+    text-align: right;
+    float: right;
+    font-size: 30px;
+    width: 600px;
+    color: lightpink;
+    padding: 0 20px;
+}
+main img{
+    float: right;
+    width: 350px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+}
+footer img{
+    width: 75px;
+    padding: 10px 0;
+}
