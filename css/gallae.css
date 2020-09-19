@@ -39,6 +39,11 @@ p.quote{
 p.speaker{
     float: right;
 }
+p.description{
+    text-align: center;
+    font-size: 17px;
+    padding: 10px 0;
+}
 main img.selfie{
     float: right;
     width: 350px;
